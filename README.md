@@ -17,5 +17,6 @@ The microcontroller, power supply and relays should be in a separate housing fro
 Through the Blynk application in the TEMPERIJA tab, the user has an insight into the current and historical display of temperature and humidity measurements. It has the option of entering the desired temperature at which the heating will be switched on, separately for two different heating stages. Input THERMOSTAT I is used to set the temperature for switching on the first heating stage (Power 833W), while the second input THERMOSTAT II is used to set the temperature for switching on the second heating stage (Power 1666W). On the example of inertia of 0.5c, if it is set to turn on at 23c it turns off only at 23.5c. HEATING FORCE represents the power level at which the heating works (from 1 to 3).
 The user can see in the diagram at what stage and at what temperature the heating was running.
 By pressing the AUTO / MANUAL button, the user can switch off the automatic. Then, by pressing the HEATING AND MANUAL and HEATING II buttons, the MANUAL can switch the heating on and off regardless of the room temperature.
+
 ![](Images/slika4.png)
 ![](Images/slika5.png)
