@@ -18,10 +18,10 @@ Through the Blynk application in the TEMPERIJA tab, the user has an insight into
 The user can see in the diagram at what stage and at what temperature the heating was running.
 By pressing the AUTO / MANUAL button, the user can switch off the automatic. Then, by pressing the HEATING AND MANUAL and HEATING II buttons, the MANUAL can switch the heating on and off regardless of the room temperature.
 
-![](Images/slika6.png)
-![](Images/slika7.png)
+![](Images/slika4.png)
+![](Images/slika5.png)
 
 In the AIR QUALITY tab, the user has an insight into the current values of eCO2 and VOC, as well as a curved display on the diagram. It has insight into the WIFI signal of the microcontroller and can manage notifications. It can turn off notifications as well as set values to which it will receive notifications for CO2 High, CO2 too high, VOC high and VOC too high. The other two buttons are used to calibrate the sensor.
 
-![](Images/slika4.png)
-![](Images/slika5.png)
+![](Images/slika6.png)
+![](Images/slika7.png)
